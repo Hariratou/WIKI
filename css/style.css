@@ -1,0 +1,13 @@
+.body {
+  height: 100%;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(100,101,107,0.7940552016985138) 57%, rgb(243, 248, 249) 100%);
+}
+
+.box {
+  background-color: #eee;
+  padding: 10px 10px 10px 10px;
+  margin:1px;
+  color: rgba(34, 33, 33, 0.954);
+  font-family: 'Tangerine', serif;
+}
